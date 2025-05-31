@@ -27,10 +27,13 @@ cd book_summarization_project
 
 ### 2. Set Up a Virtual Environment
 python -m venv venv
+
 # Activate it:
-# On Windows
+
+On Windows:-
 venv\Scripts\activate
-# On macOS/Linux
+
+On macOS/Linux:-
 source venv/bin/activate
 
 ### 3. Install Required Packages
