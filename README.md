@@ -15,34 +15,6 @@ This project provides an intelligent, modular system for context-aware summariza
 
 ---
 
-## 🗂️ Project Structure
-
-book_summarization_project/
-│
-├── app/ # Flask web app
-│ ├── init.py
-│ ├── routes.py
-│ ├── templates/
-│ │ └── index.html
-│ └── static/
-│ └── style.css
-│
-├── modules/ # Core NLP modules
-│ ├── gemini_api.py
-│ ├── keyword_extractor.py
-│ ├── preprocessor.py
-│ ├── quiz_generator.py
-│ ├── retrieval_qa.py
-│ ├── summarizer.py
-│ └── textextractor.py
-│
-├── main.py # App entry point
-├── requirements.txt # Python dependencies
-├── test.py # Summarization test script
-├── test_quiz.py # Quiz generator test script
-├── .gitignore # Files to exclude from Git
-
-
 
 
 
