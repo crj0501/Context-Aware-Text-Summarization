@@ -28,7 +28,8 @@ cd book_summarization_project
 ### 2. Set Up a Virtual Environment
 python -m venv venv
 
-##Activate it:
+
+Activate it:
 
 On Windows:-
 venv\Scripts\activate
