@@ -21,7 +21,8 @@ This project provides an intelligent, modular system for context-aware summariza
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/book_summarization_project.git
+git clone https://github.com/crj0501/book_summarization_project.git
+
 cd book_summarization_project
 
 ### 2. Set Up a Virtual Environment
