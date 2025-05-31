@@ -1,0 +1,9 @@
+Flask==2.3.3
+transformers==4.39.3
+sentence-transformers==2.6.1
+scikit-learn==1.4.2
+nltk==3.8.1
+google-generativeai==0.5.2
+python-dotenv==1.0.1
+pymupdf
+pytesseract
